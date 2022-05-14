@@ -62,7 +62,7 @@
 						id="uname" name="uname" type="text"
 						class="form-control form-control-sm"><br> Password:
 					<input id="pwd" name="pwd" type="text"
-						class="form-control form-control-sm"> <br> Type (Researcher / Buyer / Seller): <input
+						class="form-control form-control-sm"> <br> Type: <input
 						id="type" name="type" type="text"
 						class="form-control form-control-sm"> <br> <input
 						id="btnSave" name="btnSave" type="button" value="Save"

@@ -67,7 +67,7 @@
 			<div class="row text-center">
 				<div class="col-md-8">
 
-					<h1 class="white-text">Welcome to ElectroGrid System</h1>
+					<h1 class="white-text">Welcome to ElectroGrid</h1>
 					<h5 class="white-text">ElectroGrid is a company who maintains the power grid of the country.</h5>
 					<img alt="" src="images/gb.jpg">
 					<div id="countdown" class="white-text"></div>
