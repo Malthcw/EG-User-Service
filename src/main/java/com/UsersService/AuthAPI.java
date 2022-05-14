@@ -35,7 +35,7 @@ public class AuthAPI extends HttpServlet {
 		HttpSession session = request.getSession();
 		String authStatus = userObj.login(request.getParameter("txtUsername"),
 				request.getParameter("txtPassword"));
-		System.out.println("sttttttttt  :"+authStatus);
+		System.out.println("status  :"+authStatus);
 		String output = "";
 		if (authStatus.equals("success"))
 		{
